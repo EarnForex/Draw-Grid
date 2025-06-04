@@ -7,6 +7,6 @@ It offers both a very simple interface to quickly add or remove the grid and in-
 ![Input parameters for Draw Grid configuration in MetaTrader 5](https://github.com/EarnForex/Draw-Grid/blob/main/mt5-draw-grid-input-parameters.png)
 
 A detailed description of the indicator can be found here:
-https://www.earnforex.com/metatrader-indicators/draw-grid/
+https://www.earnforex.com/indicators/draw-grid/
 
 Any contributions to the code are welcome!
